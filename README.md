@@ -35,8 +35,11 @@ Step 8: create a table named "person" with four fields.
 create table person (id integer primary key autoincrement, name text, phone text, email text);
 ```
 
-Step 9: add three records to the table. 
+Step 9: add three records to the table.  
 ```
 insert into person(name, phone, email) values ("cory" , "0921" , corich@gmail.com);
 ```
-
+Step 10. Check insert data.
+```
+select * from person;
+```
