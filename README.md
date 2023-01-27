@@ -2,8 +2,7 @@
 2022-1 Android Studio Programming Practice
 
 **Launch Android Virtual Device in advance!!**
-
-Terminal Commands:  
+ 
 Step 1: Launch the AVD manager and start a previously configured AVD.  
 Step 2: Open a Terminal or Command-Prompt window.  
 Step 3: Change to the following directory   
