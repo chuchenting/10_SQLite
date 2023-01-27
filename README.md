@@ -22,7 +22,7 @@ su
 
 Step 6: change to the working directory of your App. 
 ```
-cd com.example.your_project_name
+cd data/data/com.example.your_project_name
 ```
 
 Step 7: start the SQLite tool by creating a database 
